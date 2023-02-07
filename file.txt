@@ -1,1 +1,2 @@
-Initial contents
+Content after first change
+Added second change
